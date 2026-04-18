@@ -28,7 +28,7 @@ This project analyzes Apple’s long-term profitability and financial trends. Th
 4. Run all cells
 
 ## 6. Product link / Demo
-[Demo Video Link]
+【ACC102】 https://www.bilibili.com/video/BV15tdsBiEsc/?share_source=copy_web&vd_source=d319b9f0793fab43d56c39f7b8a1ddac
 
 ## 7. Limitations & next steps
 - Limitations: Only annual data is used; no competitor comparison or macroeconomic analysis.
